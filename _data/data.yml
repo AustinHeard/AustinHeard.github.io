@@ -3,7 +3,6 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -27,47 +26,74 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently full-time Applied Scientist at AWS. After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+      Currently full-time Student at West Chester University. After an Associate's Degree in Business 
+      Administration from Northampton Community College, I transferred to West Chester to pursue
+      a Bachelors Degree in Mathematics with a concentration in Business. After two semesters
+      pursuing this I found myself becoming more and more uninterested in the math theory. While
+      business and math are still two of my greatest passions I was not finding satisfaction with
+      the course work. At the same time I was finding myself spending more time doing extra work
+      for my computer science classes I was taking as electives. This lead me to change my major
+      to Computer Science and delve deep into my studies.
 
 
-# Sidebar education
-education:
-    - degree: Applied Scientists full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
-      details: |
-      
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
-      details: |
-     
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
+skills:
+    title: Skills &amp; Proficiency
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
+    toolset:
+      - name: Java
+        level: 100%
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
+      - name: Python
+        level: 85%
+
+      - name: JavaScript
+        level: 80%
+
+      - name: C
+        level: 70%
+
+      - name: Git
+        level: 90%
+
+      - name: Linux
+        level: 70%
+
+      - name: HTML
+        level: 70%
+
+      - name: Jekyll
+        level: 65%
+
+      - name: CSS
+        level: 40%
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # Main education
 educationcomplete:
@@ -122,55 +148,32 @@ educationcomplete:
       details: |
         Master degree in Computer Engineering
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+# Sidebar education
+education:
+    - degree: Applied Scientists full-time at AWS
+      university: Germany
+      time: 2020 Oct - current
+      details: |
+      
+    - degree: Applied Scientists Intern at AWS
+      university: P. Perona, Pasadena, CA, USA
+      time: 2019 July - Dec
+      details: |
+     
+    - degree: PhD in Computer vision and Machine learning
+      university: Heidelberg University
+      time: 2015 - 2020
+      details: |
 
-    assignments:
-      - title: Velocity
-        link: "https://github.com/AustinHeard/github-slideshow"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - degree: Internship (Master Thesis)
+      university: Tobii
+      time: 2014 - 2015
+      details: |
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        level: 100%
-
-      - name: PyTorch
-        level: 90%
-
-      - name: Tensorflow
-        level: 60%
-
-      - name: Caffe
-        level: 80%
-
-      - name: Matlab
-        level: 90%
-
-      - name: C/C++
-        level: 75%
+    - degree: Master Degree
+      university: KTH (Stockholm, Sweden)
+      time: 2013 - 2015
+      details: |
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
