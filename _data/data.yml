@@ -3,7 +3,10 @@
 #
 
 sidebar:
+<<<<<<< HEAD
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+=======
+>>>>>>> 83ff65baa8b8f57f915bdc6bc6299281be9bef0a
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -27,100 +30,46 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently full-time Applied Scientist at AWS. After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+      Currently full-time Student at West Chester University. After an Associate's Degree in Business 
+      Administration from Northampton Community College, I transferred to West Chester to pursue
+      a Bachelors Degree in Mathematics with a concentration in Business. After two semesters
+      pursuing this I found myself becoming more and more uninterested in the math theory. While
+      business and math are still two of my greatest passions I was not finding satisfaction with
+      the course work. At the same time I was finding myself spending more time doing extra work
+      for my computer science classes I was taking as electives. This lead me to change my major
+      to Computer Science and delve deep into my studies.
 
 
-# Sidebar education
-education:
-    - degree: Applied Scientists full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
-      details: |
-      
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
-      details: |
-     
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
+skills:
+    title: Skills &amp; Proficiency
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
+    toolset:
+      - name: Java
+        level: 100%
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
+      - name: Python
+        level: 85%
 
-# Main education
-educationcomplete:
-    - degree: Applied Scientist full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
-      details: |
-      
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
-      details: |
+      - name: JavaScript
+        level: 80%
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
+      - name: C
+        level: 70%
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
+      - name: Git
+        level: 90%
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      - name: Linux
+        level: 70%
 
-          - Deep learning
-          - Hand Gesture
+      - name: HTML
+        level: 70%
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
+      - name: Jekyll
+        level: 65%
 
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
+      - name: CSS
+        level: 40%
 
 projects:
     title: Projects
@@ -131,7 +80,7 @@ projects:
 
     assignments:
       - title: Velocity
-        link: "https://github.com/AustinHeard/github-slideshow"
+        link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
@@ -150,27 +99,41 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-skills:
-    title: Skills &amp; Proficiency
+# Main education
+educationcomplete:
+    - degree: Bachelor of Science, Computer Science
+      university: West Chester University, West Chester, PA
+      time: 2020 - current
+      details: |
 
-    toolset:
-      - name: Python
-        level: 100%
 
-      - name: PyTorch
-        level: 90%
+    - degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
+      university: West Chester University, West Chester, PA
+      time: 2019 - 2020
+      details: |
+        
 
-      - name: Tensorflow
-        level: 60%
+    - degree: Associates in Arts, Business Administration
+      university: Northampton Community College, Bethlehem, PA
+      time: 2017 - 2019
+      details: |
 
-      - name: Caffe
-        level: 80%
+# Sidebar education
+education:
+    - degree: Bachelor of Science, Computer Science
+      university: West Chester University, West Chester, PA
+      time: 2020 - current
+      details: |
 
-      - name: Matlab
-        level: 90%
-
-      - name: C/C++
-        level: 75%
+    - degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
+      university: West Chester University, West Chester, PA
+      time: 2019 - 2020
+      details: |
+      
+    - degree: Associates in Arts, Business Administration
+      university: Northampton Community College, Bethlehem, PA
+      time: 2017 - 2019
+      details: |
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
