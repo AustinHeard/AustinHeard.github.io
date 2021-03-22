@@ -97,82 +97,38 @@ projects:
 
 # Main education
 educationcomplete:
-    - degree: Applied Scientist full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
-      details: |
-      
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
+    - degree: Bachelor of Science, Computer Science
+      university: West Chester University, West Chester, PA
+      time: 2020 - current
       details: |
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
+    - degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
+      university: West Chester University, West Chester, PA
+      time: 2019 - 2020
       details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+        
 
-          - Deep learning
-          - Hand Gesture
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
+    - degree: Associates in Arts, Business Administration
+      university: Northampton Community College, Bethlehem, PA
+      time: 2017 - 2019
       details: |
-        Master degree in Computer Science and Artificial Intelligence
-
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
 
 # Sidebar education
 education:
-    - degree: Applied Scientists full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
+    - degree: Bachelor of Science, Computer Science
+      university: West Chester University, West Chester, PA
+      time: 2020 - current
+      details: |
+
+    - degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
+      university: West Chester University, West Chester, PA
+      time: 2019 - 2020
       details: |
       
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
-      details: |
-     
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
+    - degree: Associates in Arts, Business Administration
+      university: Northampton Community College, Bethlehem, PA
+      time: 2017 - 2019
       details: |
 
 footer: >
