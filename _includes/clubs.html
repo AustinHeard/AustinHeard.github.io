@@ -1,0 +1,57 @@
+{% assign clubs = site.data.data.clubs %}
+
+{% if clubs %}
+  {% if site.data.data.sidebar.clubs %}
+  <div class="education-container container-block">
+
+    <h2 class="container-block-title">
+      Extracurricular Activities
+    </h2>
+
+    {% for club in clubs %}
+    <div class="item">
+      <h4 class="degree">{{ club.name }}</h4>
+      <h5 class="meta">{{ club.position }}</h5>
+      <div class="time">{{ club.time }}</div>
+    </div><!--//item-->
+    {% endfor %}
+
+  </div><!--//clubs-container-->
+  {% else %}
+
+
+  <section class="section educations-section">
+
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+      </span>
+      Clubs
+    </h2>
+
+    {% for club in clubs %}
+    <div class="item">
+
+      <div class="meta">
+
+        <div class="upper-row">
+          <h3 class="degree">{{ club.name }}</h3>
+          <div class="time">{{ club.time }}</div>
+        </div><!--//upper-row-->
+
+        <div class="university">{{ club.postion }}</div>
+      </div><!--//meta-->
+
+      {% if club.details %}
+      <div class="details">
+        {{ club.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </section><!--//section-->
+  {% endif %}
+{% endif %}

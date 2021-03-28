@@ -19,8 +19,13 @@
 
   {% include contact.html %}
 
+  {% if sidebar.clubs %}
+    {% include clubs.html %}
+  {% endif %}
+
   {% if sidebar.education %}
     {% include education.html %}
   {% endif %}
+  
 
 </div><!--//sidebar-wrapper-->

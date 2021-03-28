@@ -2,31 +2,6 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar:
-<<<<<<< HEAD
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-=======
->>>>>>> 83ff65baa8b8f57f915bdc6bc6299281be9bef0a
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Austin Heard
-    tagline: Student/Aspiring Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: austinheard55@gmail.com
-    phone: 
-    website: AustinHeard.github.io #do not add http://
-    linkedin: Austin-Heard
-    github: AustinHeard
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
 career-profile:
     title: Career Profile
     summary: |
@@ -37,7 +12,7 @@ career-profile:
       business and math are still two of my greatest passions I was not finding satisfaction with
       the course work. At the same time I was finding myself spending more time doing extra work
       for my computer science classes I was taking as electives. This lead me to change my major
-      to Computer Science and delve deep into my studies.
+      to Computer Science and delve deeper into my studies.
 
 
 skills:
@@ -74,30 +49,16 @@ skills:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a list of some of the projects that I have done that I am most proud of. Click the title of any of them to go to the GitHub repository
 
     assignments:
-      - title: Velocity
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Calendar
+        link: "https://github.com/AustinHeard/Calendar"
+        tagline: "A calendar app written in java (procesing) that can change dynamically depending on the input month/year and can be resized."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Portfolio/Resume Website
+        link: "https://github.com/AustinHeard/AustinHeard.github.io"
+        tagline: "I created this website because I felt like in a regular paper resume I was having trouble displaying my projects and properly explaing my educational journey."
 
 # Main education
 educationcomplete:
@@ -118,16 +79,60 @@ educationcomplete:
       time: 2017 - 2019
       details: |
 
+#
+# Sidebar Content here down -----------------------
+#
+
+sidebar:
+    education: True # set to False if you want education in main section instead of in sidebar
+    clubs: True # set to False if you want clubs in main section instead of in sidebar
+
+    # Profile information
+    name: Austin Heard
+    tagline: Student/Aspiring Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: austinheard55@gmail.com
+    phone: 
+    website: AustinHeard.github.io #do not add http://
+    linkedin: Austin-Heard
+    github: AustinHeard
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+
+# Clubs
+clubs:
+    - name: Investment Club
+      position: Sector Head
+      time: 2019 - 2020
+      details: |
+
+    - name: Computer Science Club
+      position: Member
+      time: 2020 - present
+      details: |
+
+    - name: Competitve Programming Club
+      position: Member
+      time: 2020 - present
+      details: |
+
+    - name: Cyber Security Club
+      position: Member
+      time: 2020 - present
+      details: |
+
 # Sidebar education
 education:
     - degree: Bachelor of Science, Computer Science
       university: West Chester University, West Chester, PA
-      time: 2020 - current
-      details: |
-
-    - degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
-      university: West Chester University, West Chester, PA
-      time: 2019 - 2020
+      time: 2019 - current
       details: |
       
     - degree: Associates in Arts, Business Administration

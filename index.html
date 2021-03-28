@@ -8,6 +8,10 @@ layout: default
   {% include education.html %}
 {% endunless %}
 
+{% unless site.data.data.sidebar.clubs %}
+  {% include clubs.html %}
+{% endunless %}
+
 {% include skills.html %}
 
 {% include projects.html %}
