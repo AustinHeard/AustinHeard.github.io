@@ -3,87 +3,87 @@
 #
 
 career-profile:
-		title: Career Profile
-		summary: |
-			Currently full-time Student at West Chester University. After an Associate's Degree in Business 
-			Administration from Northampton Community College, I transferred to West Chester to pursue
-			a Bachelors Degree in Mathematics with a concentration in Business. After two semesters
-			pursuing this I found myself becoming more and more uninterested in the math theory. While
-			business and math are still two of my greatest passions I was not finding satisfaction with
-			the course work. At the same time I was finding myself spending more time doing extra work
-			for my computer science classes I was taking as electives. This lead me to change my major
-			to Computer Science and delve deeper into my studies.
+        title: Career Profile
+        summary: |
+            Currently full-time Student at West Chester University. After an Associate's Degree in Business 
+            Administration from Northampton Community College, I transferred to West Chester to pursue
+            a Bachelors Degree in Mathematics with a concentration in Business. After two semesters
+            pursuing this I found myself becoming more and more uninterested in the math theory. While
+            business and math are still two of my greatest passions I was not finding satisfaction with
+            the course work. At the same time I was finding myself spending more time doing extra work
+            for my computer science classes I was taking as electives. This lead me to change my major
+            to Computer Science and delve deeper into my studies.
 
 
 skills:
-		title: Skills &amp; Proficiency
+        title: Skills &amp; Proficiency
 
-		toolset:
-			- name: Java
-				level: 100%
+        toolset:
+            - name: Java
+              level: 100%
 
-			- name: Python
-				level: 85%
+            - name: Python
+              level: 85%
 
-			- name: JavaScript
-				level: 80%
+            - name: JavaScript
+              level: 80%
 
-			- name: C
-				level: 70%
+            - name: C
+              level: 70%
 
-			- name: Git
-				level: 90%
+            - name: Git
+              level: 90%
 
-			- name: Linux
-				level: 70%
+            - name: Linux
+              level: 70%
 
-			- name: HTML
-				level: 70%
+            - name: HTML
+              level: 70%
 
-			- name: Jekyll
-				level: 65%
+            - name: Jekyll
+              level: 65%
 
-			- name: CSS
-				level: 40%
+            - name: CSS
+              level: 40%
 
 projects:
-		title: Projects
-		intro: >
-			Here is a list of some of the projects that I have done that I am most proud of. Click the title of any of them to go to the GitHub repository
+        title: Projects
+        intro: >
+            Here is a list of some of the projects that I have done that I am most proud of. Click the title of any of them to go to the GitHub repository
 
-		assignments:
-			- title: Portfolio/Resume Website
-				link: "https://github.com/AustinHeard/AustinHeard.github.io"
-				tagline: "I created this website because I felt like with a regular paper resume I was having trouble 
-				displaying my projects and properly explaing my educational journey."
+        assignments:
+            - title: Portfolio/Resume Website
+              link: "https://github.com/AustinHeard/AustinHeard.github.io"
+              tagline: "I created this website because I felt like with a regular paper resume I was having trouble 
+                displaying my projects and properly explaing my educational journey."
 
-			- title: Sorting Algorithm Visualizations
-				link: "https://github.com/AustinHeard/Algorithm_Visualization"
-				tagline: "An app written in java (procesing) that visualizes multiple sorting algorithms sorting bars 
-				of a bar graph. This program visualizes Bubble, Insertion, and Selection Sort."
+            - title: Sorting Algorithm Visualizations
+              link: "https://github.com/AustinHeard/Algorithm_Visualization"
+              tagline: "An app written in java (procesing) that visualizes multiple sorting algorithms sorting bars 
+                of a bar graph. This program visualizes Bubble, Insertion, and Selection Sort."
 
-			- title: Calendar
-				link: "https://github.com/AustinHeard/Calendar"
-				tagline: "A calendar app written in java (procesing) that can change dynamically depending on the 
-				input month/year and can be resized."
+            - title: Calendar
+              link: "https://github.com/AustinHeard/Calendar"
+              tagline: "A calendar app written in java (procesing) that can change dynamically depending on the 
+                input month/year and can be resized."
 
 # Main education
 educationcomplete:
 
-		- degree: Associates in Arts, Business Administration
-			university: Northampton Community College, Bethlehem, PA
-			time: 2017 - 2019
-			details: |
+        - degree: Associates in Arts, Business Administration
+          university: Northampton Community College, Bethlehem, PA
+          time: 2017 - 2019
+          details: |
 
-		- degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
-			university: West Chester University, West Chester, PA
-			time: 2019 - 2020
-			details: |
+        - degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
+          university: West Chester University, West Chester, PA
+          time: 2019 - 2020
+          details: |
 
-		- degree: Bachelor of Science, Computer Science
-			university: West Chester University, West Chester, PA
-			time: 2020 - current
-			details: |
+        - degree: Bachelor of Science, Computer Science
+          university: West Chester University, West Chester, PA
+          time: 2020 - current
+          details: |
 
 
 
@@ -92,61 +92,61 @@ educationcomplete:
 #
 
 sidebar:
-		education: True # set to False if you want education in main section instead of in sidebar
-		clubs: True # set to False if you want clubs in main section instead of in sidebar
+        education: True # set to False if you want education in main section instead of in sidebar
+        clubs: True # set to False if you want clubs in main section instead of in sidebar
 
-		# Profile information
-		name: Austin Heard
-		tagline: Student/Aspiring Developer
-		avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+        # Profile information
+        name: Austin Heard
+        tagline: Student/Aspiring Developer
+        avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-		# Sidebar links
-		email: austinheard55@gmail.com
-		phone: 
-		website: AustinHeard.github.io #do not add http://
-		linkedin: Austin-Heard
-		github: AustinHeard
-		gitlab:
-		bitbucket:
-		twitter:
-		stack-overflow: # Number/Username, e.g. 123456/alandoe
-		codewars:
-		goodreads: # Number-Username, e.g. 123456-alandoe
+        # Sidebar links
+        email: austinheard55@gmail.com
+        phone: 
+        website: AustinHeard.github.io #do not add http://
+        linkedin: Austin-Heard
+        github: AustinHeard
+        gitlab:
+        bitbucket:
+        twitter:
+        stack-overflow: # Number/Username, e.g. 123456/alandoe
+        codewars:
+        goodreads: # Number-Username, e.g. 123456-alandoe
 
 
 # Clubs
 clubs:
-		- name: Investment Club
-			position: Sector Head
-			time: 2019 - 2020
-			details: |
+        - name: Investment Club
+          position: Sector Head
+          time: 2019 - 2020
+          details: |
 
-		- name: Computer Science Club
-			position: Member
-			time: 2020 - present
-			details: |
+        - name: Computer Science Club
+          position: Member
+          time: 2020 - present
+          details: |
 
-		- name: Competitve Programming Club
-			position: Member
-			time: 2020 - present
-			details: |
+        - name: Competitve Programming Club
+          position: Member
+          time: 2020 - present
+          details: |
 
-		- name: Cyber Security Club
-			position: Member
-			time: 2020 - present
-			details: |
+        - name: Cyber Security Club
+          position: Member
+          time: 2020 - present
+          details: |
 
 # Sidebar education
 education:
-		- degree: Bachelor of Science, Computer Science
-			university: West Chester University, West Chester, PA
-			time: 2019 - current
-			details: |
-			
-		- degree: Associates in Arts, Business Administration
-			university: Northampton Community College, Bethlehem, PA
-			time: 2017 - 2019
-			details: |
+        - degree: Bachelor of Science, Computer Science
+          university: West Chester University, West Chester, PA
+          time: 2019 - current
+          details: |
+            
+        - degree: Associates in Arts, Business Administration
+          university: Northampton Community College, Bethlehem, PA
+          time: 2017 - 2019
+          details: |
 
 footer: >
-		Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
