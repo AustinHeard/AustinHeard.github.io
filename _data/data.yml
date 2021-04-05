@@ -50,8 +50,7 @@ projects:
         assignments:
             - title: Portfolio/Resume Website
               link: "https://github.com/AustinHeard/AustinHeard.github.io"
-              tagline: "I created this website because I felt like with a regular paper resume I was having trouble 
-                displaying my projects and properly explaing my educational journey."
+              tagline: "I created this website to better display my projects and illustrate my educational journey."
 
             - title: Sorting Algorithm Visualizations
               link: "https://github.com/AustinHeard/Algorithm_Visualization"
