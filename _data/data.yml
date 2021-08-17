@@ -24,8 +24,14 @@ skills:
             - name: JavaScript
               level: 80%
 
+            - name: TypeScript
+              level: 75%
+
             - name: C
               level: 70%
+
+            - name: C++
+              level: 65%
 
             - name: Git
               level: 90%
@@ -36,16 +42,13 @@ skills:
             - name: HTML
               level: 70%
 
-            - name: Jekyll
-              level: 65%
-
-            - name: CSS
+            - name: R
               level: 40%
 
 projects:
         title: Projects
         intro: >
-            Here is a list of some of the projects that I have done that I am most proud of. Click the title of any of them to go to the GitHub repository
+            Here is a list of some of the projects I have done. Click the title of some of them to go to the GitHub repository.
 
         assignments:
             - title: Portfolio/Resume Website
@@ -54,13 +57,21 @@ projects:
 
             - title: Sorting Algorithm Visualizations
               link: "https://github.com/AustinHeard/Algorithm_Visualization"
-              tagline: "An app written in java (procesing) that visualizes multiple sorting algorithms sorting bars 
+              tagline: "An app written in java (processing) that visualizes multiple sorting algorithms sorting bars 
                 of a bar graph. This program visualizes Bubble, Insertion, and Selection Sort."
+
+            - title: FPGA programming
+              link: ""
+              tagline: "I have an ongoing project with a professor in which we are trying to use a FPGA for video encoding."
 
             - title: Calendar
               link: "https://github.com/AustinHeard/Calendar"
-              tagline: "A calendar app written in java (procesing) that can change dynamically depending on the 
+              tagline: "A calendar app written in java (processing) that can change dynamically depending on the 
                 input month/year and can be resized."
+
+            - title: Making or Modifying games
+              link: ""
+              tagline: "I have done made basic games with low level libraries (SDL) and modified games like Minecraft both with mods that I have made and ones that I have found."
 
 # Main education
 educationcomplete:
@@ -68,40 +79,17 @@ educationcomplete:
         - degree: Associates in Arts, Business Administration
           university: Northampton Community College, Bethlehem, PA
           time: 2017 - 2019
-          details: My plan going into college was to get my MBA. During my time at Northampton Community College, 
-           I went from my favorite classes being my business classes to them becoming my least favorite classes.
-           Even with this mindset becoming ever more prevalent, I pressed on and got my Associate’s degree in 
-           Business Administration. During this time, I got accepted to West Chester University and had to choose
-           what my major was going to be. I had the choice between economics finance and math finance. Liking my
-           business classes less by the day, I chose math because it was less business and more working with numbers and crunching data.
+          details: |
 
         - degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
           university: West Chester University, West Chester, PA
           time: 2019 - 2020
-          details: After transferring to West Chester University and starting classes, I was liking the math theory
-           classes that I was taking and was even enjoying the advanced finance classes. I was liking them so much
-           that I even joined the Investment Club where I met a great group of people that I really got along with
-           and did great work with. As one semester turned to another the math theory classes were starting to feel
-           more and more like doing math to do math. This led me to start disliking the classes and start procrastinating
-           doing the homework by doing extra work for my computer science electives. After my second semester
-           as a math student and in completing West Chester University’s computer science II course. I realized
-           that if I was doing so much work in my computer science classes and loving it then I should just switch majors.
-
+          details: |
+          
         - degree: Bachelor of Science, Computer Science
           university: West Chester University, West Chester, PA
           time: 2020 - current
-          details: So, I changed my major and dove headfirst into my studies. Changing my major this late in my 
-            college career has led to packed semesters, having classes like Data Structures and Algos and its 
-            prerequisite at the same time. While this is fine for me because of all of the work that I have done out
-            of the classroom, it has led to me having classes with both freshmen and seniors at the same time. At 
-            first, I was annoyed because I felt behind. When I thought about it more I realized that it just allows 
-            me to help teach the new students and help guide their start to higher education. One of my favorite 
-            things with online classes has been the active discord servers for each class. I feel that it gives 
-            students a place and easily accessible way to ask questions to the professor or other students. Helping
-            other students figure out how to solve their questions by nudging them in the right direction without 
-            giving them the answer has been a fun challenge, a good way to reinforce course material, a good test
-            of my written communication skills, and very satisfying when I see them have their eureka moment.
-
+          details: "GPA: 3.5"
 
 
 #
