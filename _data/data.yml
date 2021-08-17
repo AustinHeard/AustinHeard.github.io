@@ -81,7 +81,7 @@ educationcomplete:
           time: 2017 - 2019
           details: |
 
-        - degree: Bachelor of Science, Mathematics - Mathematical Finance Concentration
+        - degree: Bachelor of Science, Mathematics - Finance Concentration
           university: West Chester University, West Chester, PA
           time: 2019 - 2020
           details: |
@@ -89,7 +89,7 @@ educationcomplete:
         - degree: Bachelor of Science, Computer Science
           university: West Chester University, West Chester, PA
           time: 2020 - current
-          details: "GPA: 3.5"
+          details: "GPA: 3.5\nNotable Classes: "
 
 
 #
@@ -131,7 +131,7 @@ clubs:
           time: 2020 - present
           details: |
 
-        - name: Competitve Programming Club
+        - name: Competitive Programming Club
           position: Member
           time: 2020 - present
           details: |
