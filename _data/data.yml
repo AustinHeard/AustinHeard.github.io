@@ -89,7 +89,7 @@ educationcomplete:
         - degree: Bachelor of Science, Computer Science
           university: West Chester University, West Chester, PA
           time: 2020 - current
-          details: "GPA: 3.5\nNotable Classes: "
+          details: "GPA: 3.5\n\nNotable Classes: "
 
 
 #
@@ -154,4 +154,4 @@ education:
           details: |
 
 footer: >
-        Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
